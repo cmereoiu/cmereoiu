@@ -24,6 +24,5 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://github.com/cmereoiu/cmereoiu/blob/976d2b5953ee218b537bff9c75571a5b4f6c96dc/assets/html5.svg
-assets/html5.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" height="26px" src=assets/html5.svg" />
 
