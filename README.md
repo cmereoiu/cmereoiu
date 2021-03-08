@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on open source
 - 🌱 I’m currently learning Java, React
-- 😄 Pronouns: he/him
+- 😄 Pronouns: He/Him
 
 <!--
 **cmereoiu/cmereoiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
