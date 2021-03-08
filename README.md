@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Languages and Tools:
 -->
 <br />
 
-### Languages and Tools:
-<img  align="left" alt="Visual Studio Code" width="26px" src="<script src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/4.14.0/vsco.min.js" integrity="sha512-SS2/4Zmx/kG82tZyvsAYiFSfYRdlXBRdfQ3b+p7ckcOKLr4X7VM3A1i0LIXE/6oTnGcu2MKMJtgZ91bfGhFqTg==" crossorigin="anonymous"></script>" />
+
+
