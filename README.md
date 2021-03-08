@@ -29,4 +29,9 @@ Here are some ideas to get you started:
 <img align="left" alt="html5" width="26px"  src="https://github.com/cmereoiu/cmereoiu/blob/main/assets/html.svg" />
 
 <img align="left" alt="css3" width="26px"  src="https://github.com/cmereoiu/cmereoiu/blob/main/assets/css.svg" />
+<img align="left" alt="javascript" width="26px"  src="https://github.com/cmereoiu/cmereoiu/blob/main/assets/js.svg" />
+<img align="left" alt="php" width="26px"  src="https://github.com/cmereoiu/cmereoiu/blob/main/assets/php.svg" />
+<img align="left" alt="mysql" width="26px"  src="https://github.com/cmereoiu/cmereoiu/blob/main/assets/mysql.svg" />
+<img align="left" alt="sass" width="26px"  src="https://github.com/cmereoiu/cmereoiu/blob/main/assets/sass.svg" />
+<img align="left" alt="tailwind" width="26px"  src="https://github.com/cmereoiu/cmereoiu/blob/main/assets/tailwind.svg" />
 
