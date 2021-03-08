@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello World, I'm Christian 👋
+
+<img align="right" alt="GIF" src="https://github.com/cmereoiu/cmereoiu/blob/a9e72d6cce8a0b34cc183eebadba7e8c8ba22cb7/cm.gif" width="500" height="320" />
 
 <!--
 **cmereoiu/cmereoiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
