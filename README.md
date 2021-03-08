@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/cmereoiu/cmereoiu/blob/a9e72d6cce8a0b34cc183eebadba7e8c8ba22cb7/cm.gif" width="500" height="320" />
 <br />
-## Languages and Tools:
+### Languages and Tools:
 <br>
 <br>
 <img height="40" alt="html5" src="https://github.com/cmereoiu/cmereoiu/blob/976d2b5953ee218b537bff9c75571a5b4f6c96dc/assets/html5.svg">
