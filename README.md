@@ -16,9 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### Languages and Tools:
+
 -->
 <br />
-
+### Languages and Tools:
+<br />
+<code>
+    <img height="40" alt="html5" src="https://github.com/cmereoiu/cmereoiu/blob/976d2b5953ee218b537bff9c75571a5b4f6c96dc/assets/html5.svg">
+</code>
 
 
