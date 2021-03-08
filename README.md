@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 <br />
 
 ### Languages and Tools:
-<img style="color:white;" align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudio.svg" />
+<img style="color:#fff;" align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudio.svg" />
