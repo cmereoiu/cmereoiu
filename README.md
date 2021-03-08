@@ -4,8 +4,9 @@
 <img align="right" alt="GIF" src="https://github.com/cmereoiu/cmereoiu/blob/a9e72d6cce8a0b34cc183eebadba7e8c8ba22cb7/cm.gif" width="500" height="320" />
 <br />
 
-- 👯 I’m looking to collaborate on apen source
+- 👯 I’m looking to collaborate on open source
 - 🌱 I’m currently learning Java, React
+- 😄 Pronouns: he/him
 
 <!--
 **cmereoiu/cmereoiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
