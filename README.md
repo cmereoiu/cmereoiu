@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 ### Languages and Tools:
-<br />
+
 <img align="left" alt="vscode" width="26px"  src="https://github.com/cmereoiu/cmereoiu/blob/main/assets/vscode.svg" />
 
 <img align="left" alt="html5" width="26px"  src="https://github.com/cmereoiu/cmereoiu/blob/main/assets/html.svg" />
