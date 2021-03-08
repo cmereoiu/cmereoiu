@@ -3,11 +3,9 @@
 
 <img align="right" alt="GIF" src="https://github.com/cmereoiu/cmereoiu/blob/a9e72d6cce8a0b34cc183eebadba7e8c8ba22cb7/cm.gif" width="500" height="320" />
 
-- 🌱 I’m currently learning **Java,React**
 
-- 👯 I’m looking to collaborate on **open source**
-
-
+- 👯 I’m looking to collaborate on apen source
+- 🌱 I’m currently learning Java, React
 
 <!--
 **cmereoiu/cmereoiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +13,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Java, React
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
