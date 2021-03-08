@@ -21,7 +21,11 @@ Here are some ideas to get you started:
 
 
 -->
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/christian-mereoiu-92042011/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/christian-mereoiu-92042011/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14486828/cmereoiu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/14486828/cmereoiu" height="30" width="40" /></a>
+</p>
 ### Languages and Tools:
 
 <img align="left" alt="vscode" width="26px"  src="https://github.com/cmereoiu/cmereoiu/blob/main/assets/vscode.svg" />
