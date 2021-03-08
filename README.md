@@ -2,7 +2,7 @@
 <h3>A passionate frontend developer from Germany</h3>
 
 <img align="right" alt="GIF" src="https://github.com/cmereoiu/cmereoiu/blob/a9e72d6cce8a0b34cc183eebadba7e8c8ba22cb7/cm.gif" width="500" height="320" />
-
+<br />
 
 - 👯 I’m looking to collaborate on apen source
 - 🌱 I’m currently learning Java, React
